@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+.main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #ff90ab;
+  color: #baafc4;
+  flex-direction: column;
+}
+.main-header{
+  color: #4d3e6b !important;
+  font-family: 'Times New Roman', Times, serif;
+}
+.create-form label{
+  color: #4d3e6b !important;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 16px !important;
+}
